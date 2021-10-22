@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://halloweendecor.github.io/sitemap.xml
